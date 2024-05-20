@@ -1,5 +1,35 @@
-h1 { 
-  border:style red
+header{
+
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWUiXe1aliNYjO5kbLcgHUSh8S5DfKqM4Jw&s"); 
+color: yellow;
+}
+main{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWUiXe1aliNYjO5kbLcgHUSh8S5DfKqM4Jw&s"); 
+}
+img{
+border: 15px solid yellow;
+border-radius: 30px;
+}
+h3{
+color: white;
+
+
+}
+h2{
+color: white;
+
+
+}
+h2{
+color: white;
+
+
+}
+nav{
+border: 5px solid yellow;
+text-align: center;
+border-radius: 15px;
+width: 120px;
+margin: 20px;
   
-  text-align: center;
 }
